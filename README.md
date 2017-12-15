@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tale
 Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
 
@@ -38,3 +39,7 @@ Found a bug or have a suggestion? Feel free to create an issue or make a pull re
 
 ## License
 See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
+=======
+# stefanushermawan07.github.io
+Hello World;
+>>>>>>> c874f9829a51bdf19cbe967b4432290922aa5415
