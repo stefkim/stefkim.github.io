@@ -2,7 +2,8 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Stef
+subtitle:       Ngeblog kuy
 paginate:       5
 baseurl:        "/"
 url:            "https://stefanushermawan07.github.io"
