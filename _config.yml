@@ -2,11 +2,11 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Stef
-subtitle:       Ngeblog kuy
+title:          stef
+subtitle:       blog
 paginate:       5
 baseurl:        "/"
-url:            "https://stefanushermawan07.github.io"
+url:            "https://stefkim.github.io/"
 
 # Assets
 sass:
@@ -18,9 +18,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Stefanus Hermawan
-  url:          https://stefanushermawan07.github.io
-  email:        stefanushermawan07@gmail.com
+  name:         stef
+  url:          https://stefkim.github.io
+  email:        stefkim@aol.com
 
 # Custom vars
 version:        3.4.1
