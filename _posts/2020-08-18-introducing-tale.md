@@ -5,5 +5,4 @@ author: "stef"
 ---
 
 
-## Welcome
-Hola & welcome to stef's blog
+Welcome to Stef's blog
