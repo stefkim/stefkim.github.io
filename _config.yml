@@ -3,7 +3,7 @@
 permalink:      /:title
 
 # Setup
-title:          Stef
+title:          stefkim
 subtitle:       blog
 paginate:       5
 baseurl:        "/"
