@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          stef
+title:          stefkim
 subtitle:       blog
 paginate:       5
 baseurl:        "/"
@@ -18,7 +18,7 @@ markdown:       kramdown
 
 # About
 author:
-  name:         stef
+  name:         stefkim
   url:          https://stefkim.github.io
   email:        stefkim@aol.com
 
