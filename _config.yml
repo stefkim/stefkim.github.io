@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          stefkim
+title:          Stef
 subtitle:       blog
 paginate:       5
 baseurl:        "/"
